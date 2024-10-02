@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nissy-13
+- 👋 Hi, I’m @niss-13
 - 👀 I’m interested in reading books 
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on python based projects
